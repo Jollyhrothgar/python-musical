@@ -5,9 +5,9 @@ version = '0.3.0'
 setup(
     name='musical',
     version=version,
-    url='https://github.com/wybiral/python-musical/',
-    author='Davy Wybiral',
-    author_email='davy.wybiral@gmail.com',
+    url='https://github.com/jollyhrothgar/banjo_liberation/python-musical',
+    author=['Davy Wybiral, Mike Beaumier'],
+    author_email=['michael.beaumier@gmail.com'],
     description='A python library for dealing with sounds and music',
     keywords = 'audio music theory synthesis',
     packages=['musical', 'musical.audio', 'musical.theory'],
